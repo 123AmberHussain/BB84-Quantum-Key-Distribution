@@ -23,8 +23,7 @@ data/: Stores generated cryptographic keys.
 - Clone the repository:
 
 Bash
-git clone https://github.com/123AmberHussain/BB84-Quantum-Key-Distribution.git
-cd BB84-Quantum-Key-Distribution
+git clone https://github.com/123AmberHussain/BB84-Quantum-Key-Distribution.git cd BB84-Quantum-Key-Distribution
 
 - Install requirements:
 
